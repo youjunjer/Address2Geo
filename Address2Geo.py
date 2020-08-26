@@ -2,7 +2,7 @@
 1.Apply a Google Map Geo API Key
 2.Create a csv file and put all addresses in one column with name 'address'
 3.csv file must utf8 encoding
-3.Install Win64OpenSSL for https protocal. (https://slproweb.com/products/Win32OpenSSL.html)
+4.Install Win64OpenSSL for https protocal. (https://slproweb.com/products/Win32OpenSSL.html)
 '''
 import requests
 import json
